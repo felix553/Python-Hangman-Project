@@ -113,7 +113,7 @@ def hangman():
     global display
     global already_guessed
     global game_over
-    print("\nThe Game Will Now Begin, Good Luck " + name + "!\n")
+    print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Game Will Now Begin, Good Luck " + name + "!\n")
     while (strike > 1):
         print("Strikes: " + str(strike - 1) + "   Guesses: " + str(guesses))
         print ("Already Guessed Characters: " + str(already_guessed))
